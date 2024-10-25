@@ -14,7 +14,7 @@ const AboutMe = () => {
           <div className="flex-1 mb-8 md:mb-0">
             <h2 className="text-4xl font-bold mb-4">About Me</h2>
             <p className="text-lg mb-6">
-              I am a passionate and driven individual with a deep love for technology and innovation. I'm graduated with a degree in BTech in Computer Science Engineering at Vellore Institute of Technology, Bhopal, where I honed my programming skills and expanded my knowledge. I started with a strong foundation in C++ during my high school years and have since expanded my expertise to include Java and Python. Recently, I've focused on full-stack web development, specializing in the MERN stack to build robust and scalable web applications.
+              I am a passionate and driven individual with a deep love for technology and innovation. I graduated with a degree in BTech in Computer Science Engineering at Vellore Institute of Technology, Bhopal, where I honed my programming skills and expanded my knowledge. I started with a strong foundation in C++ during my high school years and have since expanded my expertise to include Java and Python. Recently, I've focused on full-stack web development, specializing in the MERN stack to build robust and scalable web applications.
             </p>
             <p className="text-lg mb-6">
               My hands-on experience includes developing a variety of projects in Java, from desktop applications to enterprise-level software solutions. Using the MERN stack, I've created intuitive and user-friendly web applications that offer seamless user experiences and strong backend support.
