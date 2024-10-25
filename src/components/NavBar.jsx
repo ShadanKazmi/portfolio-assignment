@@ -10,12 +10,12 @@ const NavBar = () => {
   };
 
   return (
-    <div className="navbar bg-gradient-to-r from-blue-950 via-blue-900 to-blue-800 shadow-md">
-      <div className="flex-1">
+    <div className="navbar bg-gradient-to-r from-blue-950 via-blue-900 to-blue-800 shadow-md p-4 flex flex-col md:flex-row justify-between items-center">
+      <div className="flex-1 mb-2 md:mb-0">
         <img src={logo} alt="logo" className="object-contain" style={{ height: "100%", width: "15rem" }} />
       </div>
       <div className="flex-none">
-        <ul className="menu menu-horizontal space-x-4">
+        <ul className="menu menu-horizontal space-x-4 flex flex-col md:flex-row">
           <li>
             <button
               className="text-lg font-medium text-white hover:text-yellow-300 transition-colors duration-300"
